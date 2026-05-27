@@ -101,5 +101,5 @@ MIT — free to use, share, and remix. 💖
 <div align="center">
 Made with 🌸 and way too much sugar
 
-▶ Play Now
+[▶ Play Now](https://tetris-e2b7.onrender.com)
 </div>
